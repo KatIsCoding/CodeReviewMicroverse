@@ -1,0 +1,34 @@
+#image {
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+  font-size: 20px;
+  font-style: italic;
+}
+
+#img-div {
+  margin: 0;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.452);
+}
+
+#main {
+  background-color: rgba(56, 56, 56, 0.575);
+}
+
+li {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-left: 20px;
+  font-style: italic;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+#tribute-info h3 {
+  text-align: center;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.452);
+}
